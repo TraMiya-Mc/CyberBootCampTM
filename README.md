@@ -7,7 +7,7 @@
 <div align="center">
  :telescope: I’m currently working on **Learing About Ethical Hacking**
   
- :seedling: I’m currently learning **Gethub, Vs Code, Virtualbox, Cybersecurity + Ops**
+ :seedling: I’m currently learning **GitHub, Vs Code, Virtualbox, Cybersecurity + Ops**
  
 :speech_balloon: Ask me about **what im learning... or anything [here](https://github.com/TraMiya-Mc/CyberBootCampTM)**
 
